@@ -22,7 +22,7 @@ end
 
 def read_from_hash(hash, key = nil)
   if hash[key]
-    hash[key] => value
+    hash[key] = value
 end
 end
 
