@@ -16,7 +16,7 @@ end
 
 def my_hash_creator(key, value)
   this_new_hash = {}
-  this_new_hash.push(key = value)
+  this_new_hash >> key => value
   return this_new_hash
 end
 
