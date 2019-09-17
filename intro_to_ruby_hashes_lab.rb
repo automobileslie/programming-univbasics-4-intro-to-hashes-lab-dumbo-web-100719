@@ -17,6 +17,7 @@ end
 def my_hash_creator(key, value)
   this_new_hash = {}
   this_new_hash.push(key => value)
+  return this_new_hash
 end
 
 def read_from_hash(hash, key = nil)
