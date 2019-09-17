@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  this_this = {:here =>"I am"}
+  this_hash = {:here => "I am"}
 end
 
 def pioneer
-  the_pioneer = {:name => "Grass Hopper"
+  the_pioneer = {:name => "Grass Hopper"}
 end
 
 def id_generator
