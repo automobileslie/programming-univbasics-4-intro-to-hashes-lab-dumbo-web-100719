@@ -21,7 +21,7 @@ end
 
 def read_from_hash(hash, key = nil)
   if hash[key]
-    hash[key]+= 1
+    hash[key]+=1
 end
 end
 
